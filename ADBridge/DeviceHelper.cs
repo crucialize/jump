@@ -9,7 +9,7 @@ using SharpAdbClient;
 
 namespace ADBridge
 {
-	class DeviceHelper
+	public class DeviceHelper
 	{
 		private DeviceData device;
 		private AdbClient client;
