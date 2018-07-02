@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ADBridge
 {
-    public class Class1
+    public class Bridge
     {
+
     }
 }
