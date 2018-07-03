@@ -87,6 +87,10 @@
       <Project>{ae5f8cfe-c26c-4042-ac1b-0cf57bde6baa}</Project>
       <Name>ADBridge</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Imaging\Algorithm.csproj">
+      <Project>{f1fa50ea-7f89-4e53-9958-d217e5590fd7}</Project>
+      <Name>Algorithm</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

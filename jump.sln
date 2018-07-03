@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADBridgeTest", "ADBridgeTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpWithHand", "JumpWithHand\JumpWithHand.csproj", "{A6D41168-5A37-4B93-AA65-85438CE8597B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm", "Imaging\Algorithm.csproj", "{F1FA50EA-7F89-4E53-9958-D217E5590FD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A6D41168-5A37-4B93-AA65-85438CE8597B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6D41168-5A37-4B93-AA65-85438CE8597B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6D41168-5A37-4B93-AA65-85438CE8597B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FA50EA-7F89-4E53-9958-D217E5590FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FA50EA-7F89-4E53-9958-D217E5590FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FA50EA-7F89-4E53-9958-D217E5590FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FA50EA-7F89-4E53-9958-D217E5590FD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
